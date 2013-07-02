@@ -1,4 +1,4 @@
-jlxq0.github.io
-===============
+xq0.net
+=======
 
 Static website with contact information
