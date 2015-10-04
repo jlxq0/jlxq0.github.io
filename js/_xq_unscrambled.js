@@ -9,6 +9,9 @@ jQuery(document).ready(function($) {
         else if (command == 'contact') {
             term.echo("Mail:         jl@xq0.net\nTwitter:      https://twitter.com/jlxq0\nGoogle+:      https://plus.google.com/117601863189824202666\nSpeakerdeck:  https://speakerdeck.com/jlxq0\nGithub:       https://github.com/jlxq0");
         }
+        else if (command == 'berlin') {
+            term.echo("http://xq0.net/berlin");
+        }
         else {
             term.echo("Unknown command (try 'help').");
         }
