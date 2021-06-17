@@ -7,7 +7,7 @@ jQuery(document).ready(function($) {
             term.echo("Type 'contact' to get in touch.\nYou'll have to figure out the rest.");
         }
         else if (command == 'contact') {
-            term.echo("Mail:         jl@xq0.net\nTwitter:      https://twitter.com/jlxq0\nInstagram:    https://instagram.com/jlxq0\n500px:        https://500px.com/jlxq0\nGoogle+:      https://plus.google.com/117601863189824202666\nSpeakerdeck:  https://speakerdeck.com/jlxq0\nGithub:       https://github.com/jlxq0");
+            term.echo("Mail:         jl@xq0.net\nTwitter:      https://twitter.com/jlxq0\nInstagram:    https://instagram.com/jlxq0\n500px:        https://500px.com/jlxq0\nFacebook:      https://fb.com/jlxq0\nSpeakerdeck:  https://speakerdeck.com/jlxq0\nGithub:       https://github.com/jlxq0");
         }
         else {
             term.echo("Unknown command (try 'help').");
